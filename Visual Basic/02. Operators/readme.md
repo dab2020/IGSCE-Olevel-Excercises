@@ -9,7 +9,7 @@ These are operators that can be used to perofrm logical, comparative or arithima
   <li> *  : Multiplication</li>
   <li> MOD  : Remainder</li>
   </ol>
-  ## Comparison
+  ## Comparison Operator
   <ol>
   <li>< lesser than</li>
     <li>> greater than</li>
@@ -17,3 +17,4 @@ These are operators that can be used to perofrm logical, comparative or arithima
         <li><= lesser than or equal to</li>
           <li>>= greater than or equal to</li>
   <li><> not equal</li>
+</ol>
