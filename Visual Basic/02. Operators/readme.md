@@ -25,3 +25,6 @@ The computer takes 1 as true and 0 as False. So keep this in mind when consultin
 # Explaination
   If I start giving a explaination, it will take a lot of time. The code is self explainatory, so heres a pic with the result side by side.
   ![Screenshot (628)](https://user-images.githubusercontent.com/79893903/130604600-74db6499-96c8-4ec2-ab67-907a40a4c7b5.png)
+
+  ## The lack of quotation marks
+  The lack of quotation marks shows that this is a expression that needs to be evaluated.
