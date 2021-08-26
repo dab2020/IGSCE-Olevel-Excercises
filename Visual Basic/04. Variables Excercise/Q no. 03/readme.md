@@ -15,3 +15,13 @@ Finally I added ```  Console.WriteLine(num > 0) ``` this compares the number in 
 
 ## Proof for negative number
 ![Screenshot (646)](https://user-images.githubusercontent.com/79893903/130941269-dd06e313-5613-4d14-93f2-a024bcd5c162.png)
+
+
+# NOTE
+I dont know the VB.NET equavilent of the if command in python, if that was used, we might be able to bypass user judgement and instead have this VB.NET equivalent of python code
+```
+if num > 0:
+  print("The Number is positive")
+if num < 0:
+  print("The Number is negative")
+  ```
