@@ -25,3 +25,9 @@ If password = quality_control Then
             Console.ReadKey()
         End If
 ```
+
+## Proof of When the password match
+![Screenshot (650)](https://user-images.githubusercontent.com/79893903/130953646-8f39766c-2b3b-49f9-ac89-221311420c31.png)
+
+## Proof of when the passwords dont match
+![Screenshot (651)](https://user-images.githubusercontent.com/79893903/130953682-8ad9f48d-7ed8-435e-8428-ed4bde0416d1.png)
