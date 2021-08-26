@@ -24,5 +24,6 @@ height = 10
 <br>
 Note that the value for area is height multiplied by width. This gives us our area and all we have to do is print it.
 ``` Console.WriteLine(area) ``` <br> And this gives us our answer or 150
-## Screenshot
-![Screenshot (637)](https://user-images.githubusercontent.com/79893903/130921041-291047d6-a76e-4919-8db6-681cebf8325b.png)
+
+
+Here you go ![Screenshot (637)](https://user-images.githubusercontent.com/79893903/130921168-c2f6134c-8be3-46d5-9618-644fda230008.png)
