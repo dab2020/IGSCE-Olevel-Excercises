@@ -23,7 +23,10 @@ height = 10
 ```
 <br>
 Note that the value for area is height multiplied by width. This gives us our area and all we have to do is print it.
-``` Console.WriteLine(area) ``` <br> And this gives us our answer or 150
+```
+Console.WriteLine(area)
+```
+<br> And this gives us our answer or 150
 
 
 Here you go ![Screenshot (637)](https://user-images.githubusercontent.com/79893903/130921168-c2f6134c-8be3-46d5-9618-644fda230008.png)
