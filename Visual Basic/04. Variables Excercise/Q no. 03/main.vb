@@ -1,3 +1,4 @@
+Module Module1
 Sub Main()
         Dim num As Decimal
         num = -1
