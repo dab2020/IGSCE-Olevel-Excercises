@@ -7,6 +7,7 @@ Module Module1
         Dim add As Integer
         add = 2
         Console.WriteLine(mynum * add)
+        Console.ReadKey()
         End Sub
 
 End Module
