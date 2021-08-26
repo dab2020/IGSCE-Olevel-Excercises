@@ -5,6 +5,7 @@ Module Module1
         mynum = 256
         Console.WriteLine("First Method of doing it")
         Console.WriteLine(mynum * 2)
+        Console.ReadKey()
     End Sub
 
 End Module
