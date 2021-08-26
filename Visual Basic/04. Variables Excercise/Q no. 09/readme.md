@@ -6,7 +6,7 @@ to store the value of wages.
 
 
 # Explaination
-Firstly I declaring and classifying some variables
+Firstly I started by declaring and classifying some variables
 ```
  Dim pay, wage, time As Integer
         Dim Name, wage1 As String
